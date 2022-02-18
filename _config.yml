@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+
+title: Gowthami Pediredla # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Frontend Engineer
+  <br><br>
+  <a href="mailto:gowthami.pediredla@yahoo.com">gowthami.pediredla@yahoo.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/gowthami-pediredla-763477101/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/gowthamipediredla/">Github</a> 
+
