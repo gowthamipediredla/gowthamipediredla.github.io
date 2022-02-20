@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 4 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+Software developer with 4 years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch 
 
 ---
 
@@ -21,17 +21,38 @@ I am a frontend engineer with an experience of over 4 years. I have hands on exp
 ### **ASSOCIATE TECHNOLOGY L2**
 ### PUBLICIS SAPIENT
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+- Part of developing in-house applications of an Australian Insurance Company using Reactjs, Redux.
 
 ### **APPLICATION DEVELOPER**
 ### IBM
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+- Developed an MVP for Data Lineage application using ReactJS, Redux and Material-UI from scratch. 
+- Part of developing individual government entities for Abu- Dhabi. 
+- Designed and developed dynamic web pages using ReactJS (Class Components and Hooks), Redux, Redux-thunk, Rest API.
+
 
 ### **SOFTWARE DEVELOPER**
 ### TCS
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+- Part of developing in-house applications of an Australian Oil&Gas Company using ReactJS, redux. 
+- Worked on multiple CRs for improving the functionality of the applications.
+
+---
+
+## Personal Projects
+
+
+### Visited Places
+
+- This is an Interface through which loggedin users can share their visited places and their comments on it and others can view it.
+- Primarily built on ReactJS, Nodejs, MongoDB and Express.
+
+
+### Burger Builder
+
+- Burger Builder Application is an interface to build a burger where ingredients can be added according to user’s taste and can be ordered.
+- primarily used ReactJS, Redux, Redux-thunk, Firebase
+
 
 ---
 
