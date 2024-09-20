@@ -1,6 +1,6 @@
 ## Portfolio
 
-Software developer with 4 years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch 
+Software developer with 6+ years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch. Currently working on e-commerce application on ReactJS and React-Native.
 
 ---
 
@@ -19,22 +19,28 @@ Software developer with 4 years of professional experience in designing and deve
 
 ## Experience
 
-### **ASSOCIATE TECHNOLOGY L2**
+### **SENIOR EXPERIENCE ENGINEER**
 ### PUBLICIS SAPIENT
-
-- Part of developing in-house applications of an Australian Insurance Company using Reactjs, Redux.
+### Project: Academy Sports + Outdoors eCommerce
+- Spearheaded development of the MyAccount functionality for Academy Sports + Outdoors' eCommerce platform, improving account security and user experience by integrating features
+- Developed and enhanced features for the Academy Sports + Outdoors mobile app across iOS and Android platforms, ensuring seamless user experience and functionality.
+- Implemented responsive design, improving app navigation and accessibility, leading to a 10% increase in mobile traffic.
 
 ### **APPLICATION DEVELOPER**
 ### IBM
-
+### Project: TAMM - ABU DHABI
+- Part of developing individual government entities for TAMM Abu - Dhabi. 
 - Developed an MVP for Data Lineage application using ReactJS, Redux and Material-UI from scratch. 
-- Part of developing individual government entities for Abu- Dhabi. 
 - Designed and developed dynamic web pages using ReactJS (Class Components and Hooks), Redux, Redux-thunk, Rest API.
+
+### Project: E-Jewelry Website
+- Developed and launched a high-performance eCommerce platform for an online jewelry retailer, enabling the client to showcase products, process payments, and manage customer orders seamlessly.
+- Collaborated with cross-functional teams to ensure a responsive design, ensuring optimal performance across mobile, tablet, and desktop devices, resulting in a 30% increase in mobile traffic
 
 
 ### **SOFTWARE DEVELOPER**
 ### TCS
-
+### Project: SANTOS
 - Part of developing in-house applications of an Australian Oil&Gas Company using ReactJS, redux. 
 - Worked on multiple CRs for improving the functionality of the applications.
 
@@ -61,5 +67,5 @@ Software developer with 4 years of professional experience in designing and deve
 
 ### **Gayatri College of Engineering for Women**
 ### BTech Computer Science (2013- 2017)
-Percentage 81
+Percentage **81**
 
