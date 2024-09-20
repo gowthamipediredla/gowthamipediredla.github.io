@@ -1,19 +1,22 @@
 ## Portfolio
 
-Software developer with 6+ years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch. Currently working on e-commerce application on ReactJS and React-Native.
+Software developer with 6+ years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch. Currently working on e-commerce application using ReactJS and React-Native.
 
 ---
 
 ## Skills
-
+**Frontend**: ReactJS, Redux, HTML5, CSS3, JavaScript (ES6+), Material-UI <br/> 
+**Mobile**: React Native <br/> 
+**Backend**: Node.js, Express.js <br/> 
+**Tools**: Git, Jenkins, AWS, REST APIs <br/> 
+**Development Methodologies**: Agile, Scrum <br/> 
+<!--
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  
-   
-</p>
+</p> -->
 
 ---
 
@@ -28,7 +31,7 @@ Software developer with 6+ years of professional experience in designing and dev
 
 ### **APPLICATION DEVELOPER**
 ### IBM
-### Project: TAMM - ABU DHABI
+### Project: TAMM - Abu Dhabi Government Platform
 - Part of developing individual government entities for TAMM Abu - Dhabi. 
 - Developed an MVP for Data Lineage application using ReactJS, Redux and Material-UI from scratch. 
 - Designed and developed dynamic web pages using ReactJS (Class Components and Hooks), Redux, Redux-thunk, Rest API.
@@ -40,7 +43,7 @@ Software developer with 6+ years of professional experience in designing and dev
 
 ### **SOFTWARE DEVELOPER**
 ### TCS
-### Project: SANTOS
+### Project: SANTOS (Oil & Gas Industry)
 - Part of developing in-house applications of an Australian Oil&Gas Company using ReactJS, redux. 
 - Worked on multiple CRs for improving the functionality of the applications.
 
