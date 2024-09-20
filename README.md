@@ -46,9 +46,11 @@ Software developer with 6+ years of professional experience in designing and dev
 - Worked on multiple CRs for improving the functionality of the applications.
 
 ---
+## Certficates
+  **AWS Certified Cloud Practitioner**
+  Amazon Web Services (AWS)
 
 ## Personal Projects
-
 
 ### Visited Places
 
