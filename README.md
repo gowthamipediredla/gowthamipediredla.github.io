@@ -1,6 +1,6 @@
 ## Portfolio
 
-Software developer with 6+ years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch. Currently working on e-commerce application using ReactJS and React-Native.
+Software developer with 7 years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch. Currently working on e-commerce application using ReactJS and React-Native.
 
 ---
 
