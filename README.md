@@ -1,13 +1,14 @@
 ## Portfolio
 
-Software developer with 7 years of professional experience in designing and developing rich enterprise scale applications. Well versed with all phases of the software development life cycle. Can excel as a solo developer or as a team member. Developed e-commerce Jewellery and Edtech applications single-handedly, from scratch. Currently working on e-commerce application using ReactJS and React-Native.
+
+Frontend Developer with 7 years of experience in building scalable, user-centric web and mobile applications using **React.js, React Native,JavaScript,TypeScript and Redux**. Proven track record in optimizing performance, reducing defects, and delivering business-critical solutions with **90% First-Time Pass Rate (FTPR)**. AWS Certified Cloud Practitioner with a strong focus on continuous learning and staying updated on the latest technologies.
 
 ---
 
 ## Skills
 **Frontend**: ReactJS, Redux, HTML5, CSS3, JavaScript (ES6+), Material-UI <br/> 
+**Testing Libraries**: Jest, Enzyme, Testing library <br/>
 **Mobile**: React Native <br/> 
-**Backend**: Node.js, Express.js <br/> 
 **Tools**: Git, Jenkins, AWS, REST APIs <br/> 
 **Development Methodologies**: Agile, Scrum <br/> 
 <p align='left'>
@@ -23,14 +24,16 @@ Software developer with 7 years of professional experience in designing and deve
 ### **SENIOR EXPERIENCE ENGINEER**
 ### PUBLICIS SAPIENT
 ### Project: Academy Sports + Outdoors eCommerce
-- Spearheaded development of the MyAccount functionality for Academy Sports + Outdoors' eCommerce platform, improving account security and user experience by integrating features
-- Developed and enhanced features for the Academy Sports + Outdoors mobile app across iOS and Android platforms, ensuring seamless user experience and functionality.
-- Implemented responsive design, improving app navigation and accessibility, leading to a 10% increase in mobile traffic.
+- Enhancing MyAccount functionality across website and mobile app platforms using **React, Redux, and TypeScript**, ensuring a seamless user experience with robust, scalable functionality.
+- **Optimized application performance**, achieving improvements of up to 15% by implementing lazy loading, code splitting, and advanced rendering techniques.
+- Leading mentorship initiatives by guiding junior developers to write clean, scalable code and providing support during debugging and development challenges, fostering team collaboration.
+- Overseeing code quality through PR reviews, ensuring adherence to best practices, and maintaining consistency in code standards across the team.
 
 ### **APPLICATION DEVELOPER**
 ### IBM
 ### Project: TAMM - Abu Dhabi Government Platform
-- Part of developing individual government entities for TAMM Abu - Dhabi. 
+- Contributed to the development of Abu Dhabi's TAMM platform, an integrated system offering government services, using React and Redux
+- Enhanced Abu Dhabi's TAMM platform by developing integrated, user-friendly web interfaces using React and Redux, streamlining access to government services for residents and businesses.
 - Developed an MVP for Data Lineage application using ReactJS, Redux and Material-UI from scratch. 
 - Designed and developed dynamic web pages using ReactJS (Class Components and Hooks), Redux, Redux-thunk, Rest API.
 
