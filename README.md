@@ -26,8 +26,8 @@ Frontend Developer with 7 years of experience in building scalable, user-centric
 ### Project: Academy Sports + Outdoors eCommerce
 - Enhancing MyAccount functionality across website and mobile app platforms using **React, Redux, and TypeScript**, ensuring a seamless user experience with robust, scalable functionality.
 - **Optimized application performance**, achieving improvements of up to 15% by implementing lazy loading, code splitting, and advanced rendering techniques.
-- Leading mentorship initiatives by guiding junior developers to write clean, scalable code and providing support during debugging and development challenges, fostering team collaboration.
-- Overseeing code quality through PR reviews, ensuring adherence to best practices, and maintaining consistency in code standards across the team.
+- **Leading mentorship initiatives** by guiding junior developers to write clean, scalable code and providing support during debugging and development challenges, fostering team collaboration.
+- **Overseeing code quality** through PR reviews, ensuring adherence to best practices, and maintaining consistency in code standards across the team.
 
 ### **APPLICATION DEVELOPER**
 ### IBM
